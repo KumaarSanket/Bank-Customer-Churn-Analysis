@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20MySQL%20%7C%20PowerBI%20%7C%20Python-blue)
 ![Domain](https://img.shields.io/badge/Domain-Banking%20%7C%20Financial%20Analytics-orange)
-//![ML](https://img.shields.io/badge/ML%20Model-Random%20Forest-purple)
+![ML](https://img.shields.io/badge/ML%20Model-Random%20Forest-purple)
 ![Accuracy](https://img.shields.io/badge/Model%20Accuracy-85%25-success)
 ![AUC](https://img.shields.io/badge/ROC%20AUC-0.84-success)
 
